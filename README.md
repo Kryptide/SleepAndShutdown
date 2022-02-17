@@ -19,12 +19,12 @@
                                                                
 INSTRUCTIONS:
 ================================================================================================
-1.) Download the SleepAndShutdown.zip.
-2.) Extract the SleepAndShutdown folder to wherever you would like.
-3.) Right-click on SleepAndShutdown.bat and select "Create Shortcut".
-4.) Drag-and-Drop that shortcut to your desktop or anywhere you would like.
-5.) Double (left) click your shortcut to open the Sleep & Shutdown menu and make your selection.
-6.) Profit!
+1. Download the SleepAndShutdown.zip.
+2. Extract the SleepAndShutdown folder to wherever you would like.
+3. Right-click on SleepAndShutdown.bat and select "Create Shortcut".
+4. Drag-and-Drop that shortcut to your desktop or anywhere you would like.
+5. Double (left) click your shortcut to open the Sleep & Shutdown menu and make your selection.
+6. Profit!
 
 
 USE-CASE:
