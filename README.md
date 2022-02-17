@@ -147,5 +147,6 @@ other one to match.
 ENJOY:
 ================================================================================================
 Thanks for checking this out! I hope it's as helpful to you as it is to me! 
-
-                                 
+If you have any questions or concerns, please reach out here on GitHub!
+I am also open to any sort of constructive criticism. If there is something I can do to make 
+this better or more efficient, please let me know.
