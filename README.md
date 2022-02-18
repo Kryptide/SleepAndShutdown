@@ -26,7 +26,7 @@ INSTRUCTIONS:
 5. Double (left) click your shortcut to open the Sleep & Shutdown.
 6. You may get a dialog pop-up that says "Windows Protected Your Computer"
 7. Click "More Info" then select "Run Anyway"
-8. Select options between 0-9.
+8. Select an option between 0-9.
 6. Profit!
 
 
