@@ -19,11 +19,14 @@
                                                                
 INSTRUCTIONS:
 ================================================================================================
-1. Download the SleepAndShutdown.zip.
+1. Download the SleepAndShutdown.zip from Git Hub (https://github.com/Kryptide/SleepAndShutdown)
 2. Extract the SleepAndShutdown folder to wherever you would like.
 3. Right-click on SleepAndShutdown.bat and select "Create Shortcut".
 4. Drag-and-Drop that shortcut to your desktop or anywhere you would like.
-5. Double (left) click your shortcut to open the Sleep & Shutdown menu and make your selection.
+5. Double (left) click your shortcut to open the Sleep & Shutdown.
+6. You may get a dialog pop-up that says "Windows Protected Your Computer"
+7. Click "More Info" then select "Run Anyway"
+8. Select options between 0-9.
 6. Profit!
 
 
@@ -142,6 +145,7 @@ This means that when the PC is idle for 15 minutes the monitor(s) will go to sle
 If you want that to be a different time please change the 15's to however many minutes you would
 like the monitor(s) to sleep on their own. Remember that if you change one of the 15's to change the
 other one to match. 
+You can also just delete SleepMonitors.bat and rename SleepMonitorsAlt.bat to SleepMonitors.bat
 
 
 ENJOY:
