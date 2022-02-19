@@ -57,6 +57,7 @@ help you out.
 *ADDING MENU ITEM*
 
 Right-Click on SleepAndShutdown.bat and select ("Show More Options" if on Win11) -> Edit
+
 echo {MENU ITEM #}) {ADD OPTION DESCRIPTION}
 (EXAMPLE: echo 10) Add delay to Monitor Sleep)
 
