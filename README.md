@@ -55,11 +55,13 @@ help you out.
 **Please fill in your add-ins inside {}. Remember not to copy the {}'s.
 
 *ADDING MENU ITEM*
+
 Right-Click on SleepAndShutdown.bat and select ("Show More Options" if on Win11) -> Edit
 echo {MENU ITEM #}) {ADD OPTION DESCRIPTION}
 (EXAMPLE: echo 10) Add delay to Monitor Sleep)
 
 *ADDING THE ACTION TO YOUR CORRESPONDING MENU ITEM*
+
 if "%web%"=="{MENU ITEM #}" start {YOUR ACTION}
 (EXAMPLE: if "%web%"=="10" start DelayMonitorSleep.bat)
 
